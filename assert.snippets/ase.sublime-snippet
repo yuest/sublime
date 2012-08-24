@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[assert.equal(${1:expected}, ${0:actual})]]></content>
+    <content><![CDATA[assert.equal(${1:actual}, ${0:expected})]]></content>
     <tabTrigger>ase</tabTrigger>
     <scope>source.js</scope>
     <description>assert.equal(..)</description>
